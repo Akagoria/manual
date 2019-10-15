@@ -1,5 +1,5 @@
 = Story of The Revenge of Kalista
-Julien Bernard <julien.bernard@univ-fcomte.fr>
+Julien Bernard <julien.bernard@univ-fcomte.fr>; Léo Mercier
 v0.5
 :toc:
 :homepage: https://akagoria.github.io/
