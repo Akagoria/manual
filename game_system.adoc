@@ -160,12 +160,12 @@ Experience is gained by absorbing dark power, in Shrines of Ike. A certain amoun
 === Combat resolution
 
 . Check if the attack is valid
-.. Check if the remaining associated points are high enough
-.. Check if the associated skill stem:[S] is high enough
+.. Check if the remaining aspect points are high enough
+.. Check if the associated attribute points stem:[A] are high enough
 . Compute success of the action
 .. Choose a random number stem:[R] between 0 and 100
-.. If stem:[R \leq S], the action is successful otherwise the action is _failed_
-.. Compute the extent of success: stem:[E = 1 + \frac{S - R}{100}]
+.. If stem:[R \leq A], the action is successful otherwise the action is _failed_
+.. Compute the extent of success: stem:[E = 1 + \frac{A - R}{100}]
 . Compute power of the attack
 .. Compute the offensive points: stem:[\text{ATK} \times E \times \sqrt{L}]
 . Compute power of the defense
